@@ -117,7 +117,7 @@ msgstr "Pasta de áudio não definida! A gravação não funcionará!\n"
 
 #: ../src/control/Control.cpp:237
 msgid "Autosave failed with an error: {1}"
-msgstr ""
+msgstr "Falha no salvamento automático com um erro: {1}"
 
 #: ../src/control/Control.cpp:203
 msgid "Autosave renamed from {1} to {2}"
